@@ -1,6 +1,6 @@
 # E-commerce Customer Churn Prediction (SQL + ML)
 
-## 📌 Project Overview
+## Project Overview
 Built an end-to-end customer churn prediction pipeline using SQL, Python, EDA and Machine Learning on real e-commerce transactional data.
 
 ## Business Problem
@@ -22,17 +22,6 @@ The objective was to identify customers likely to churn and generate actionable 
 5. Engineered churn risk features
 6. Trained Logistic Regression model
 7. Evaluated using Confusion Matrix & Accuracy
-
-## Visual Insights
-
-### Revenue Distribution
-![Revenue Histogram](1a.png)
-
-
-### Model Evaluation - Confusion Matrix
-![Confusion Matrix](3.png)
-
-
 
 ## Key Insights
 - Majority customers are low spenders
