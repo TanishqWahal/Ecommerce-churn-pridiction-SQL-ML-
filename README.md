@@ -26,10 +26,12 @@ The objective was to identify customers likely to churn and generate actionable 
 ## Visual Insights
 
 ### Revenue Distribution
-![Revenue Histogram](revenue_histogram.png)
+![Revenue Histogram] (revenue_histogram.png)
+
 
 ### Model Evaluation - Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
+
 
 
 ## Key Insights
